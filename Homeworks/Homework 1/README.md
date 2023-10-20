@@ -1,6 +1,8 @@
 # Components
 •RGB LED (1)
+
 •Potentiometers (3)
+
 •Resistors and wires as needed
 
 # Technical Task
