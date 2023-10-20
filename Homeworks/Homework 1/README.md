@@ -8,4 +8,4 @@ Use a separate potentiometer for controlling each color of the RGB LED:Red,Green
 
 
 # Photo of setup
-![WhatsApp Image 2023-10-20 at 21 30 48](https://github.com/Ramona23serban/IntroductionToRobotics/assets/116956079/43deefb4-77a0-47fc-bfb7-a260680c28da)
+![My Image](setup1.jpg)
