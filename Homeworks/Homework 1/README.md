@@ -11,7 +11,8 @@ Use a separate potentiometer for controlling each color of the RGB LED:Red,Green
 
 # Photo of setup
 
-![setup1](https://github.com/Ramona23serban/IntroductionToRobotics/assets/116956079/9a29432f-e21f-4188-ad00-194f17b66e56)
+![pozair](https://github.com/Ramona23serban/IntroductionToRobotics/assets/116956079/e774b740-ce3d-4d2a-ad9e-8f834a2979ad)
+
 
 # Link to a video showcasing functionality 
 
