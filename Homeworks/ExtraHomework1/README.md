@@ -1,5 +1,5 @@
 # Description
-The project is simple, it works like a piano. By pressing a different button, the buzzer will play different "musical notes". We can compose different songs this way.
+In addition to the extra homework, I also found this game. The project is simple, it works like a piano. By pressing a different button, the buzzer will play different "musical notes". We can compose different songs this way.
 
 # Components
 
