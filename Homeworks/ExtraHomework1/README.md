@@ -3,9 +3,11 @@ The project is simple, it works like a piano. By pressing a different button, th
 
 # Components
 
-1 Buzzer
-6 (or more) Buttons
-Wire as needed
+•Buzzer (1)
+
+•6(or more) Buttons (3)
+
+•Resistors and wires as needed
 
  # Photo of setup 
  
