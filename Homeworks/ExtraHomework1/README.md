@@ -5,7 +5,7 @@ The project is simple, it works like a piano. By pressing a different button, th
 
 •Buzzer (1)
 
-•6(or more) Buttons (3)
+•6(or more) Buttons
 
 •Resistors and wires as needed
 
