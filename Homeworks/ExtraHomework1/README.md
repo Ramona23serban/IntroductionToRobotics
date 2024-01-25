@@ -5,7 +5,7 @@ In addition to the extra homework, I also found this game. The project is simple
 
 •Buzzer (1)
 
-•6(or more) Buttons
+•Buttons (6 or more)
 
 •Resistors and wires as needed
 
