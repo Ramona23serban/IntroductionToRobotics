@@ -6,7 +6,7 @@ The project is a radar wannabe. The ultrasonic sensor will capture an object at 
 
 •LED (1)
 
-•LCD (1)
+•LCD Display (1)
 
 •Ultrasonic Sensor (1)
 
